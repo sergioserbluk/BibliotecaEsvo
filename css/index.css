@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #f2f2f2;
+}
+.header{
+    width: 100%;
+    height: 150px;
+    background-color: #ff4d4d;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
+.main{
+    width: 100%;
+    height: auto;
+    background-color: #f2f2f2;
+}
+footer{
+    width: 100%;
+    height: 50px;
+    background-color: #ff4d4d;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    bottom: 0px;
+    
+}
+aside{
+    width: 20%;
+    height: auto;
+    background-color: #f2f2f2;
+    float: left;
+}
